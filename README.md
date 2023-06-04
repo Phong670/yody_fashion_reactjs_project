@@ -9,7 +9,7 @@ Customers need to register and log in to the website to view, search, order prod
 - At folder backend:
   + Install dependencies via `npm i`
   + Run server: 'npm run server' //for Json server
-  + Run server2: 'npm run server' //for nodemailer and VNPay
+  + Run server2: 'npm run server2' //for nodemailer and VNPay
 - At folder frontend:
   + Install dependencies via `npm i`
   + Start the project: `npm run start` 
